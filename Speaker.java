@@ -1,3 +1,5 @@
+// An example of inheritance in java the class Repeater extends the class Speaker
+
 public class Speaker {
     String b;
     Speaker( String c){
